@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 6 Things to consider when choosing a Data Visualization library
+redirect_from: "/2015/06/04/things-to-consider-when-choosing-data-viz-library"
+permalink: data-viz-library-selection
 ---
 
 Looking around the internet for a charting library was an overwhelming task. So many different libraries to choose from, with different features offered to me. I build a comprehensive list that I used to determine which data visualization library to pick on the project I was working on.
