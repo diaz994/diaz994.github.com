@@ -8,7 +8,7 @@ Hi my name is Victor S. Diaz. I build software to solve challenging business pro
 
 I grew up in Texas and have been in the Dallas-Fort Worth metroplex since I was 9. I am currently working as a Software Engineering Consultant at [Pariveda Solutions Inc.](http://www.parivedasolutions.com), a consulting firm based out Dallas dedicated to solving our clients biggest problems. I am passionate about technology and the things you can accomplish with it.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/victorsdiaz), [GitHub](https://github.com/diaz994), StackOverflow, Twitter
+You can find me on [LinkedIn](https://www.linkedin.com/in/victorsdiaz), [GitHub](https://github.com/diaz994), [Twitter](https://www.twitter.com/diaz994)
 
 ##Work History
 
