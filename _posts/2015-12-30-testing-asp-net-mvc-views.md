@@ -17,7 +17,7 @@ The approach I used was to create a dummy controller action that would generate 
 
 Controller Action
 
-```csharp
+```
 [GET("RenderHtml")]
 public ActionResult RenderHtml()
 {
@@ -31,7 +31,7 @@ public ActionResult RenderHtml()
 ```
 Html View
 
-```csharp
+```
 @if(viewModel.SomeBooleanProperty)
 {
 	<span>Boolean is true!</span>
