@@ -2,6 +2,7 @@
 layout: post
 title: Testing an ASP.NET MVC View
 redirect_from: "/2015/12/30/testing-asp-net-mvc-views/"
+comments: true
 permalink: testing-asp-net-mvc-view
 ---
 
